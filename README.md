@@ -322,7 +322,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <img width="1802" height="646" alt="image" src="https://github.com/user-attachments/assets/6be07d1c-8523-4c1b-8b15-649c56fcc09c" />
 <img width="874" height="590" alt="image" src="https://github.com/user-attachments/assets/e6b67988-dd29-415b-b967-e1ed23cf7b04" />
 <img width="886" height="725" alt="image" src="https://github.com/user-attachments/assets/0a348ccd-a970-4832-91a2-40ee102b541d" />
-D:\Project _ 1_ Blockchain\README.md
 <img width="866" height="705" alt="image" src="https://github.com/user-attachments/assets/38d41854-35a4-497f-b673-1a146a851629" />
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-smart-contract-auditor)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-smart-contract-auditor)
