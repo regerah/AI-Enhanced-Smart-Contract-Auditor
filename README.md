@@ -317,12 +317,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Framer Motion** for the smooth animations
 - **Lucide** for the beautiful icons
 
-## ⭐ Star History
+## 📊 Sample Images
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-smart-contract-auditor&type=Date)](https://star-history.com/#yourusername/ai-smart-contract-auditor&Date)
-
-## 📊 Repository Stats
-
+<img width="1802" height="646" alt="image" src="https://github.com/user-attachments/assets/6be07d1c-8523-4c1b-8b15-649c56fcc09c" />
+<img width="874" height="590" alt="image" src="https://github.com/user-attachments/assets/e6b67988-dd29-415b-b967-e1ed23cf7b04" />
+<img width="886" height="725" alt="image" src="https://github.com/user-attachments/assets/0a348ccd-a970-4832-91a2-40ee102b541d" />
+D:\Project _ 1_ Blockchain\README.md
+<img width="866" height="705" alt="image" src="https://github.com/user-attachments/assets/38d41854-35a4-497f-b673-1a146a851629" />
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-smart-contract-auditor)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-smart-contract-auditor)
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-smart-contract-auditor)
@@ -331,6 +332,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made by - Ashutosh Tripathi, Ashutosh Dwivedi, Shaik Shahid Aleem**
+Created by [Ashutosh Tripathi](https://theashutoshtripathi.com), Ashutosh Dwivedi, and [Shaik Shahid Aleem](https://shaikshahidaleem.in)
 
 *Securing the future of decentralized applications, one contract at a time.* 
