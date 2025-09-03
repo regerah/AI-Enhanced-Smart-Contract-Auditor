@@ -10,7 +10,7 @@
 
 > **A cutting-edge, AI-powered smart contract security auditing platform that combines GPT-4 analysis with Slither static analysis to provide comprehensive security assessments of Solidity smart contracts.**
 
-## 🌟 Features
+## 🌟 Features 
 
 ### 🤖 AI-Powered Analysis
 - **GPT-4 Integration**: Advanced AI analysis for intelligent vulnerability detection
